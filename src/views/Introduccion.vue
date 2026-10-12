@@ -14,7 +14,7 @@
         img(src='@/assets/curso/temas/intro/img01.png', alt='')
       .col-lg-7
         .row.justify-content-center(data-aos="fade-down")
-          .col-lg-2.col-md-2.mb-3.col-3
+          .col-lg-2.col-md-2.mb-3.col-4
             img(src='@/assets/curso/temas/intro/img02.svg', alt='')
           .col-lg-10
             p La inteligencia artificial generativa se ha incorporado en diferentes ámbitos debido a su capacidad para generar textos, imágenes, audio, video, código y otros contenidos. Aunque ofrece oportunidades para apoyar la creatividad, automatizar tareas y mejorar procesos, también plantea riesgos relacionados con la exactitud de los resultados, los sesgos, la privacidad, la seguridad de la información, la propiedad intelectual y la dependencia tecnológica.
