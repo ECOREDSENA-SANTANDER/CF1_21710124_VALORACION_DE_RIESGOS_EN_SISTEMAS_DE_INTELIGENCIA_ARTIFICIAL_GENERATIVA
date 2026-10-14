@@ -56,7 +56,7 @@
           .col-lg-8.mb-3 
             p Para las organizaciones, este referente permite comprender que adoptar inteligencia artificial no consiste solamente en incorporar herramientas. También requiere fortalecer capacidades humanas, gobernanza, infraestructura, investigación, innovación y gestión de riesgos.
             p.mb-0 Además, el marco relacionado con la IA continúa evolucionando. Por esta razón, las organizaciones deben mantener seguimiento de nuevas disposiciones legales, proyectos normativos, lineamientos sectoriales y orientaciones de las autoridades competentes.
-          .col-lg-4.col-md-6
+          .col-lg-4.col-md-6.col-9
             img(src='@/assets/curso/temas/t5/img06.svg', alt='')
         p Esto significa que una evaluación de riesgos no debería considerarse definitiva para siempre. #[b Si cambia la normativa, el proveedor, el modelo, la finalidad o las condiciones de uso, puede ser necesario actualizarla.]
 
