@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84" height="84" viewBox="0 0 84 84">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_1060494" data-name="Trazado 1060494" d="M0,0H68.821V68.821H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1188015" data-name="Grupo 1188015" transform="translate(-706.186 -932.009)">
+    <rect id="Rectángulo_454628" data-name="Rectángulo 454628" width="84" height="84" rx="5" transform="translate(706.186 932.009)"/>
+    <g id="Grupo_1187531" data-name="Grupo 1187531" transform="translate(715.711 938.701)">
+      <rect id="Rectángulo_459890" data-name="Rectángulo 459890" width="4.301" height="20.431" transform="translate(11.828 45.164)" fill="#f59e27"/>
+      <rect id="Rectángulo_459891" data-name="Rectángulo 459891" width="4.301" height="20.431" transform="translate(39.787 45.164)" fill="#f59e27"/>
+      <g id="Grupo_1187530" data-name="Grupo 1187530">
+        <g id="Enmascarar_grupo_1119299" data-name="Enmascarar grupo 1119299" clip-path="url(#clip-path)">
+          <path id="Trazado_1060486" data-name="Trazado 1060486" d="M31.6,6.868A24.733,24.733,0,1,1,6.869,31.6,24.732,24.732,0,0,1,31.6,6.868" transform="translate(-3.643 -3.642)" fill="#61ffb6"/>
+          <path id="Trazado_1060487" data-name="Trazado 1060487" d="M37.672,18.315A19.356,19.356,0,1,1,18.316,37.671,19.356,19.356,0,0,1,37.672,18.315" transform="translate(-9.713 -9.713)" fill="#39bc7a"/>
+          <path id="Trazado_1060488" data-name="Trazado 1060488" d="M43.742,29.762A13.979,13.979,0,1,1,29.763,43.741,13.979,13.979,0,0,1,43.742,29.762" transform="translate(-15.783 -15.783)" fill="#f59e0b"/>
+          <rect id="Rectángulo_459892" data-name="Rectángulo 459892" width="2.151" height="5.377" transform="translate(26.883 3.226)" fill="#8f0086"/>
+          <rect id="Rectángulo_459893" data-name="Rectángulo 459893" width="5.377" height="2.151" transform="translate(3.226 26.883)" fill="#8f0086"/>
+          <rect id="Rectángulo_459894" data-name="Rectángulo 459894" width="2.151" height="5.377" transform="translate(26.883 47.314)" fill="#8f0086"/>
+          <rect id="Rectángulo_459895" data-name="Rectángulo 459895" width="2.151" height="2.151" transform="translate(26.883 64.519)" fill="#8f0086"/>
+          <rect id="Rectángulo_459896" data-name="Rectángulo 459896" width="2.151" height="2.151" transform="translate(31.185 64.519)" fill="#8f0086"/>
+          <rect id="Rectángulo_459897" data-name="Rectángulo 459897" width="2.151" height="2.151" transform="translate(22.582 64.519)" fill="#8f0086"/>
+          <rect id="Rectángulo_459898" data-name="Rectángulo 459898" width="10.753" height="2.151" transform="translate(8.602 64.519)" fill="#d299cf"/>
+          <rect id="Rectángulo_459899" data-name="Rectángulo 459899" width="10.753" height="2.151" transform="translate(36.561 64.519)" fill="#d299cf"/>
+          <path id="Trazado_1060489" data-name="Trazado 1060489" d="M48.169,44.566h-3V42.56h3Zm0,11.78h-3V46.784h3Z" transform="translate(-23.955 -22.57)" fill="#fff"/>
+          <path id="Trazado_1060490" data-name="Trazado 1060490" d="M61.448,54.882H57.622l-.743,2.5H53.733l4.2-12.867h1.6v.009l.008-.009h1.6l4.207,12.867H62.2Zm-3.137-2.3h2.448l-1.2-3.994H59.5Z" transform="translate(-28.495 -23.607)" fill="#fff"/>
+          <rect id="Rectángulo_459900" data-name="Rectángulo 459900" width="37.636" height="2.151" transform="translate(29.034 26.883)" fill="#8f0086"/>
+          <path id="Trazado_1060491" data-name="Trazado 1060491" d="M133.921,58.886l-3.24-4.3a1.076,1.076,0,0,1,0-1.29l3.24-4.3,1.72,1.291-2.754,3.656,2.753,3.656Z" transform="translate(-69.187 -25.981)" fill="#f59e0b"/>
+          <path id="Trazado_1060492" data-name="Trazado 1060492" d="M122.506,58.886l-3.24-4.3a1.076,1.076,0,0,1,0-1.29l3.24-4.3,1.72,1.291-2.755,3.656,2.752,3.656Z" transform="translate(-63.133 -25.981)" fill="#d299cf"/>
+          <path id="Trazado_1060493" data-name="Trazado 1060493" d="M53.733,61.491h3.146L59.557,52.7l-2.813-.435-3.011,9.458" transform="translate(-28.495 -27.715)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
